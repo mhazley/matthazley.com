@@ -1,0 +1,37 @@
+baseurl = "https://matthazley.com/"
+languageCode = "en-gb"
+theme = "terminal"
+paginate = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.en]
+    title = "Matt Hazley"
+
+    [languages.en.params.logo]
+      logoText = "Matt Hazley"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        name = "CV"
+        url = "/CV"
+
+      [[languages.en.menu.main]]
+        identifier = "talks"
+        name = "Talks"
+        url = "/Talks"
+
+      [[languages.en.menu.main]]
+        identifier = "homebrewing"
+        name = "Home Brewing"
+        url = "/HomeBrewing"

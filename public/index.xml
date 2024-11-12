@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Hazley</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Matt Hazley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;2004 - 2009&lt;/code&gt;
+&lt;strong&gt;Queen&amp;rsquo;s University, Belfast&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MEng Electronic and Software Engineering [First Class Honours]&lt;/li&gt;
+&lt;li&gt;Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;2023&lt;/code&gt; Matter Working Group Outstanding Contributor Award&lt;br&gt;
+&lt;code&gt;2009&lt;/code&gt; OpenFX Award for Engineering Software Excellence, &lt;em&gt;EEECS Faculty, Queen&amp;rsquo;s University, Belfast&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tool-box&#34;&gt;Tool Box&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Programming&lt;/code&gt;
+C, C++, Python, Go&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Technologies &amp;amp; Frameworks&lt;/code&gt;
+Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design &amp;amp; Implementation, UART/SPI/I2C,
+TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
+Yocto, Zephyr, FreeRTOS&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;2004 - 2009&lt;/code&gt;
+&lt;strong&gt;Queen&amp;rsquo;s University, Belfast&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MEng Electronic and Software Engineering [First Class Honours]&lt;/li&gt;
+&lt;li&gt;Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;2023&lt;/code&gt; Matter Working Group Outstanding Contributor Award&lt;br&gt;
+&lt;code&gt;2009&lt;/code&gt; OpenFX Award for Engineering Software Excellence, &lt;em&gt;EEECS Faculty, Queen&amp;rsquo;s University, Belfast&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tool-box&#34;&gt;Tool Box&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Programming&lt;/code&gt;
+C, C++, Python, Go&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Technologies &amp;amp; Frameworks&lt;/code&gt;
+Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design &amp;amp; Implementation, UART/SPI/I2C,
+TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
+Yocto, Zephyr, FreeRTOS&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tools &amp;amp; Platforms&lt;/code&gt;
+Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
+Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hardware &amp;amp; Prototyping&lt;/code&gt;
+PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Skills &amp;amp; Competencies&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Customer Interaction &amp;amp; Field Support:&lt;/strong&gt; Proven ability to engage with global customers, distilling technical details into actionable,
+clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning
+product development to meet market needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Product Management:&lt;/strong&gt; Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product
+features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features,
+manage releases, and ensure successful product outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;occupation-history&#34;&gt;Occupation History&lt;/h2&gt;
+&lt;h3 id=&#34;dyson&#34;&gt;Dyson&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;2023-2024&lt;/code&gt;
+&lt;strong&gt;Principal Embedded Connectivity Engineer&lt;/strong&gt;, Bristol&lt;br&gt;
+&lt;code&gt;2021-2023&lt;/code&gt;
+&lt;strong&gt;Associate Principal Embedded Connectivity Engineer&lt;/strong&gt;, Bristol&lt;br&gt;
+&lt;code&gt;2017-2021&lt;/code&gt;
+&lt;strong&gt;Senior Embedded Connectivity Engineer&lt;/strong&gt;, Bristol&lt;/p&gt;
+&lt;p&gt;In my role as Principal Engineer at Dyson, I spearheaded the development of next-generation IoT products,
+guiding concepts from initial research through to working prototypes while driving Dyson&amp;rsquo;s connected vision
+and strategy. This role placed me at the intersection of technology and product innovation, allowing me to
+shape products that leverage Bluetooth Low Energy, Wi-Fi, and advanced Mesh/Cellular technologies across
+diverse platforms (C, C++, Python, and Go).&lt;/p&gt;
+&lt;p&gt;I specialized in architecting and developing embedded solutions that seamlessly interfaced with cloud services,
+mobile applications, and even peer devices—becoming a go-to expert in M2M/IoT protocols such as BLE, MQTT, and
+CoAP. For cutting-edge prototypes, particularly as devices grew smaller and more specialized, I often designed
+custom PCBs to enhance performance and integration.&lt;/p&gt;
+&lt;p&gt;A key figure in Dyson’s Smart Home Strategy, I represented the company as a Matter expert and ambassador to the
+Connectivity Standards Alliance. As a contributor to Matter v1.2, v1.3, and v1.4, I chaired the Air Quality Tiger
+Team, leading the introduction of two new device types into the standard. My work established Dyson as a forward-thinking
+leader within the CSA.&lt;/p&gt;
+&lt;p&gt;In addition to hands-on technical work, I led a team of engineers as a Tech Lead, collaborating with both technical
+and non-technical stakeholders to shape and realize product requirements within real-world technological constraints.
+Acting as a Systems Engineer and Product Owner, I guided multi-disciplinary teams to bring product concepts to life,
+often overseeing complex end-to-end feature development.&lt;/p&gt;
+&lt;p&gt;My role also involved researching emerging technologies, where I explored innovations like mesh networking (Thread,
+Bluetooth Mesh), LPWAN (LTE-M, NB-IoT), BlueZ for Linux Bluetooth, and deploying Matter and Docker on embedded Linux
+platforms.&lt;/p&gt;
+&lt;p&gt;Alongside my technical responsibilities, I mentored and managed a team of five engineers, fostering skill development
+and growth while advancing Dyson’s innovation roadmap.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;2016-2017&lt;/code&gt;
+&lt;strong&gt;Advanced Firmware Engineer&lt;/strong&gt;, Malmesbury&lt;/p&gt;
+&lt;p&gt;As an Advanced Engineer on Dyson&amp;rsquo;s robotics platform team, I was instrumental in developing a robust, scalable platform
+for current and future Dyson products, leveraging C on ARM MCUs with μC/RTOS. My primary responsibility was to design
+and maintain the serial communication links between high-level systems and low-level peripherals, encompassing both
+middleware and protocol design. This work laid the groundwork for a company-wide serial communications protocol,
+which I worked on from inception to adoption — a solution now integral to nearly all Dyson products.&lt;/p&gt;
+&lt;p&gt;Beyond protocol development, I built a suite of peripheral emulators in Python using PyQT. These emulators became widely
+adopted across Dyson’s embedded teams, streamlining testing and enabling cross-functional collaboration. This work provided
+engineers with reliable, flexible testing tools and accelerated development cycles on complex embedded systems.&lt;/p&gt;
+&lt;h3 id=&#34;brewbot&#34;&gt;Brewbot&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;2015-2016&lt;/code&gt;
+&lt;strong&gt;Firmware Lead&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;As Firmware Team Lead and sole Firmware Architect for Brewbot, an IoT-enabled, automated brewing system startup based in San
+Francisco and Belfast, I led a team of three engineers to develop a fully shippable product from concept to completion in just
+12 months. Built on Particle&amp;rsquo;s Wi-Fi platform (STM32 ARM Cortex M3 with Broadcom Wi-Fi), our system controlled every aspect of
+the brewing process, interfacing seamlessly with temperature sensors, flow meters, and load cells, and handling precise automation
+across all brewing stages.&lt;/p&gt;
+&lt;p&gt;I developed the firmware in C++, enabling robust machine-to-cloud communication (MQTT) and seamless integration with mobile devices
+via CoAP. In addition to core development, I maintained our build system using Python and Docker and managed the team’s workload,
+releases, and milestones, using a streamlined SCRUM-inspired approach that kept us agile and efficient in a dynamic startup environment.&lt;/p&gt;
+&lt;p&gt;Beyond my engineering responsibilities, I also managed our 200L pilot brewing kit, shipping around 10 kegs a week, which provided
+crucial real-world testing and a direct line to customer feedback. Despite the rapid pace and ultimate closure of the startup, this role
+was a unique opportunity to lead the creation of a pioneering IoT product from the ground up.&lt;/p&gt;
+&lt;h3 id=&#34;sensata&#34;&gt;Sensata&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;2014 - 2015&lt;/code&gt;
+&lt;strong&gt;Firmware Engineer&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;At Sensata, I was part of the Automotive Innovation Team, where we developed novel fluid level sensing technologies for a new Audi
+platform. Working on 8-bit 8051 MCUs with C, I collaborated closely with a small team of engineers to bring our RF-based liquid level
+sensing product from prototype to production. My work encompassed implementing all product features, creating a robust debug interface
+(1-Wire), developing an MCU bootloader, and integrating ECU communication via J2716 SENT.&lt;/p&gt;
+&lt;p&gt;In addition to firmware development, I created testing and calibration tools in C++ using Qt for Windows, which streamlined the testing
+process and significantly supported our calibration work.&lt;/p&gt;
+&lt;p&gt;Given the small, agile team structure, I frequently engaged in global customer interactions, translating complex technical decisions into
+clear, strategic presentations for both engineering and non-engineering stakeholders. This experience enhanced my ability to bridge technical
+depth with customer-focused communication, ensuring our solutions aligned with client requirements and industry standards.&lt;/p&gt;
+&lt;h3 id=&#34;nyse-euronext&#34;&gt;NYSE Euronext&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;2013 - 2014&lt;/code&gt;
+&lt;strong&gt;Platform Software Engineer&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;At NYSE Euronext, I was part of the Platform Team, where I worked on the development and maintenance of the Data Fabric product, a high-performance,
+low-latency, message-oriented middleware platform designed for distributing large volumes of application-level data across financial systems.
+This multi-threaded middleware, written in C for Linux systems, operated on IP network hardware and utilised advanced technologies like Infiniband
+to enable RDMA and Kernel Bypass for unmatched speed and reliability.&lt;/p&gt;
+&lt;p&gt;My responsibilities included implementing robust, production-grade C code for patches and new feature releases, maintaining system stability in a
+performance-critical environment. Additionally, I managed the Data Fabric Lab, providing timely triage for customer issues and collaborating closely
+with cross-functional teams. To further support development, QA, and support, I created Python tools that improved diagnostic efficiency and
+streamlined processes, ensuring rapid response in a demanding financial services environment.&lt;/p&gt;
+&lt;h3 id=&#34;schrader-electronics&#34;&gt;Schrader Electronics&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;2009 - 2013&lt;/code&gt;
+&lt;strong&gt;Embedded Software Engineer&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;As a Firmware Engineer in the New Products Group at Schrader Electronics, I was responsible for designing, prototyping, and developing firmware for
+a range of industrial sensing solutions. Working with SiLabs 8051 8-bit MCUs, I developed low-power, bare-metal solutions with compact footprints
+(&amp;lt;64kB) that met strict power efficiency and space constraints.&lt;/p&gt;
+&lt;p&gt;In this role, I took projects from concept on breadboards to in-situ prototypes, enabling real-world testing and refinement. The sensors I developed
+used 433MHz Manchester-Coded RF to communicate with base stations, ensuring reliable data transmission across challenging industrial environments.
+This hands-on experience allowed me to refine my skills in low-power design and RF communication, contributing to Schrader&amp;rsquo;s portfolio of cutting-edge
+sensing technology.&lt;/p&gt;
+&lt;h2 id=&#34;hobbies--interests&#34;&gt;Hobbies &amp;amp; Interests&lt;/h2&gt;
+&lt;p&gt;I am an enthusiastic Home Brewer who regularly competes in competition. I have set up various &lt;a href=&#34;https://homebrewcollab.co.uk/&#34;&gt;Homebrew clubs&lt;/a&gt;
+and I like to partake in the community, where I encourage Home Brewers to come together to share knowledge, techniques and advice (and beer!).&lt;/p&gt;
+&lt;p&gt;I love hiking and I am also a &lt;a href=&#34;https://open.spotify.com/user/matthazley?si=EPZPzeZJQGClYVTFNUN3yg&#34;&gt;multi-genre music fan&lt;/a&gt; and like to attend
+as many gigs as I can afford.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Homebrewing</title>
+      <link>http://localhost:1313/homebrewing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/homebrewing/</guid>
+      <description>&lt;p&gt;I am an incredibly zealous and motivated Home Brewer and have honing my
+skills for about 10+ years.&lt;/p&gt;
+&lt;p&gt;In 2019 while living in Bristol, I founded
+&lt;a href=&#34;https://homebrewcollab.co.uk/&#34;&gt;Homebrew Collab&lt;/a&gt; which quickly grew to
+be one of the largest and most celebrated Homebrew clubs in the South of
+England. As of 2024, Homebrew Collab also runs the
+&lt;a href=&#34;https://nationalhomebrewcompetition.org.uk/&#34;&gt;UK National Homebrew Competition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In late 2024 I moved back to Belfast and am in the process of setting up the
+Belfast Chapter of Homebrew Collab, so if you are a Northern Irish Homebrewer,
+please get in touch.&lt;/p&gt;</description>
+      <content>&lt;p&gt;I am an incredibly zealous and motivated Home Brewer and have honing my
+skills for about 10+ years.&lt;/p&gt;
+&lt;p&gt;In 2019 while living in Bristol, I founded
+&lt;a href=&#34;https://homebrewcollab.co.uk/&#34;&gt;Homebrew Collab&lt;/a&gt; which quickly grew to
+be one of the largest and most celebrated Homebrew clubs in the South of
+England. As of 2024, Homebrew Collab also runs the
+&lt;a href=&#34;https://nationalhomebrewcompetition.org.uk/&#34;&gt;UK National Homebrew Competition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In late 2024 I moved back to Belfast and am in the process of setting up the
+Belfast Chapter of Homebrew Collab, so if you are a Northern Irish Homebrewer,
+please get in touch.&lt;/p&gt;
+&lt;p&gt;Myself and my fellow Homebrewers can be found hanging out on the
+&lt;a href=&#34;https://discord.gg/eKzsEtQpDH&#34;&gt;Homebrew Collab Discord&lt;/a&gt; so please come say hello!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;p&gt;I enjoy delivering talks and lectures, and over the years, I&amp;rsquo;ve been lucky
+enough to have some of these recorded.&lt;/p&gt;
+&lt;h2 id=&#34;_whats-the-matter_--codiax-2023-in-cluj-romania&#34;&gt;&lt;em&gt;&amp;ldquo;What&amp;rsquo;s the Matter?&amp;rdquo;&lt;/em&gt; @ Codiax 2023 in Cluj, Romania&lt;/h2&gt;
+&lt;p&gt;I was really happy to be invited to Codiax in 2023 to talk about the future
+of Smart Home prototcols. Cluj is a really amazing place filled with incredibly
+smart and creative people, I can&amp;rsquo;t wait to go back!&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PV-lZkBc3Wg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;_from-beer-making-to-corporate-bliss-via-a-failed-startup_--sw-mobile-in-2019&#34;&gt;&lt;em&gt;&amp;ldquo;From Beer Making to Corporate Bliss via a Failed Startup&amp;rdquo;&lt;/em&gt; @ SW Mobile in 2019&lt;/h2&gt;
+&lt;p&gt;This was a fun talk I developed around my journey from a failed startup to a big
+corporation. The concept of this talk was born out of an evening of beers with a
+D&amp;amp;D nerd who thought it would be fun to map the hero&amp;rsquo;s journey to an early career
+journey.&lt;/p&gt;</description>
+      <content>&lt;p&gt;I enjoy delivering talks and lectures, and over the years, I&amp;rsquo;ve been lucky
+enough to have some of these recorded.&lt;/p&gt;
+&lt;h2 id=&#34;_whats-the-matter_--codiax-2023-in-cluj-romania&#34;&gt;&lt;em&gt;&amp;ldquo;What&amp;rsquo;s the Matter?&amp;rdquo;&lt;/em&gt; @ Codiax 2023 in Cluj, Romania&lt;/h2&gt;
+&lt;p&gt;I was really happy to be invited to Codiax in 2023 to talk about the future
+of Smart Home prototcols. Cluj is a really amazing place filled with incredibly
+smart and creative people, I can&amp;rsquo;t wait to go back!&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PV-lZkBc3Wg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;_from-beer-making-to-corporate-bliss-via-a-failed-startup_--sw-mobile-in-2019&#34;&gt;&lt;em&gt;&amp;ldquo;From Beer Making to Corporate Bliss via a Failed Startup&amp;rdquo;&lt;/em&gt; @ SW Mobile in 2019&lt;/h2&gt;
+&lt;p&gt;This was a fun talk I developed around my journey from a failed startup to a big
+corporation. The concept of this talk was born out of an evening of beers with a
+D&amp;amp;D nerd who thought it would be fun to map the hero&amp;rsquo;s journey to an early career
+journey.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m really impressed with the cool, minimalist graphics I did for this, maybe
+I should add branding to my CV?!&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/aBmG9QoLa9U?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;_eli5-rapid-product-development-of-the-brewbot_--farset-labs-in-jan-2016&#34;&gt;&lt;em&gt;&amp;ldquo;ELi5 Rapid Product Development of the BrewBot&amp;rdquo;&lt;/em&gt; @ Farset Labs in Jan 2016&lt;/h2&gt;
+&lt;p&gt;A very young, green engineer tries to explain what it&amp;rsquo;s like to rapidly develop
+connected products.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/UIIKREs-p38?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</content>
+    </item>
+    
+  </channel>
+</rss>
