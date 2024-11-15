@@ -39,7 +39,11 @@ product development to meet market needs.
 
 **Product Management:** Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product
 features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features,
-manage releases, and ensure successful product outcomes.
+manage releases, and ensure successful product outcomes.  
+
+**Open Source Engagement:** Experience working with, and contributing to, open source software projects. Adept at navigating 
+community-driven development processes, collaborating with global contributors, and aligning open-source innovations with
+organizational objectives.
 
 ## Occupation History
 
@@ -58,23 +62,23 @@ shape products that leverage Bluetooth Low Energy, Wi-Fi, and advanced Mesh/Cell
 diverse platforms (C, C++, Python, and Go).
 
 I specialized in architecting and developing embedded solutions that seamlessly interfaced with cloud services,
-mobile applications, and even peer devices—becoming a go-to expert in M2M/IoT protocols such as BLE, MQTT, and
-CoAP. For cutting-edge prototypes, particularly as devices grew smaller and more specialized, I often designed
+mobile applications, and even peer devices, becoming a go-to expert in M2M/IoT protocols such as BLE, MQTT, and
+CoAP. For cutting-edge prototypes, particularly as devices grew smaller and more specialised, I often designed
 custom PCBs to enhance performance and integration.
 
 A key figure in Dyson’s Smart Home Strategy, I represented the company as a Matter expert and ambassador to the
 Connectivity Standards Alliance. As a contributor to Matter v1.2, v1.3, and v1.4, I chaired the Air Quality Tiger
-Team, leading the introduction of two new device types into the standard. My work established Dyson as a forward-thinking
-leader within the CSA.
+Team, leading the introduction of the Air Purifier and Air Quality Sensor into the standard. I also contributed
+significantly to the Robot Vacuum Cleaner strategy and development.
 
 In addition to hands-on technical work, I led a team of engineers as a Tech Lead, collaborating with both technical
-and non-technical stakeholders to shape and realize product requirements within real-world technological constraints.
+and non-technical stakeholders to shape product requirements within real-world technological constraints.
 Acting as a Systems Engineer and Product Owner, I guided multi-disciplinary teams to bring product concepts to life,
-often overseeing complex end-to-end feature development.
+often overseeing complex end-to-end feature development including firmware, mobile app and cloud software.
 
 My role also involved researching emerging technologies, where I explored innovations like mesh networking (Thread,
-Bluetooth Mesh), LPWAN (LTE-M, NB-IoT), BlueZ for Linux Bluetooth, and deploying Matter and Docker on embedded Linux
-platforms.
+Bluetooth Mesh, DECT NR+), LPWAN (LTE-M, NB-IoT), BlueZ for Linux Bluetooth, and deploying Matter and Docker on
+embedded Linux platforms.
 
 Alongside my technical responsibilities, I mentored and managed a team of five engineers, fostering skill development
 and growth while advancing Dyson’s innovation roadmap.
@@ -158,5 +162,5 @@ sensing technology.
 I am an enthusiastic Home Brewer who regularly competes in competition. I have set up various [Homebrew clubs](https://homebrewcollab.co.uk/)
 and I like to partake in the community, where I encourage Home Brewers to come together to share knowledge, techniques and advice (and beer!).
 
-I love hiking and I am also a [multi-genre music fan](https://open.spotify.com/user/matthazley?si=EPZPzeZJQGClYVTFNUN3yg) and like to attend
+I love hiking and I am also a [diverse music fan](https://open.spotify.com/user/matthazley?si=EPZPzeZJQGClYVTFNUN3yg) and like to attend
 as many gigs as I can afford.
