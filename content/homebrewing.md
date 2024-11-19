@@ -2,8 +2,8 @@
 title = "Homebrewing"
 +++
 
-I am an incredibly zealous and motivated Home Brewer and have honing my
-skills for about 10+ years. 
+I am an incredibly zealous and motivated Home Brewer and have been honing my
+skills for about 10+ years.
 
 In 2019 while living in Bristol, I founded
 [Homebrew Collab](https://homebrewcollab.co.uk/) which quickly grew to
