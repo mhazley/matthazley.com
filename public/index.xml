@@ -13,62 +13,61 @@
       
       <guid>http://localhost:1313/cv/</guid>
       <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;2004 - 2009&lt;/code&gt;
+&lt;p&gt;&lt;strong&gt;2004 - 2009:&lt;/strong&gt;
 &lt;strong&gt;Queen&amp;rsquo;s University, Belfast&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;MEng Electronic and Software Engineering [First Class Honours]&lt;/li&gt;
 &lt;li&gt;Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;2023&lt;/code&gt; Matter Working Group Outstanding Contributor Award&lt;br&gt;
-&lt;code&gt;2009&lt;/code&gt; OpenFX Award for Engineering Software Excellence, &lt;em&gt;EEECS Faculty, Queen&amp;rsquo;s University, Belfast&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tool-box&#34;&gt;Tool Box&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Programming&lt;/code&gt;
+&lt;p&gt;&lt;strong&gt;Programming:&lt;/strong&gt;
 C, C++, Python, Go&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Technologies &amp;amp; Frameworks&lt;/code&gt;
-Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design &amp;amp; Implementation, UART/SPI/I2C,
-TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
-Yocto, Zephyr, FreeRTOS&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;2004 - 2009&lt;/code&gt;
-&lt;strong&gt;Queen&amp;rsquo;s University, Belfast&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MEng Electronic and Software Engineering [First Class Honours]&lt;/li&gt;
-&lt;li&gt;Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;2023&lt;/code&gt; Matter Working Group Outstanding Contributor Award&lt;br&gt;
-&lt;code&gt;2009&lt;/code&gt; OpenFX Award for Engineering Software Excellence, &lt;em&gt;EEECS Faculty, Queen&amp;rsquo;s University, Belfast&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;tool-box&#34;&gt;Tool Box&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Programming&lt;/code&gt;
-C, C++, Python, Go&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Technologies &amp;amp; Frameworks&lt;/code&gt;
+&lt;p&gt;&lt;strong&gt;Technologies &amp;amp; Frameworks:&lt;/strong&gt;
 Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design &amp;amp; Implementation, UART/SPI/I2C,
 TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
 Yocto, Zephyr, FreeRTOS&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Tools &amp;amp; Platforms&lt;/code&gt;
+&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Platforms:&lt;/strong&gt;
+Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
+Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin)&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;2004 - 2009:&lt;/strong&gt;
+&lt;strong&gt;Queen&amp;rsquo;s University, Belfast&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MEng Electronic and Software Engineering [First Class Honours]&lt;/li&gt;
+&lt;li&gt;Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tool-box&#34;&gt;Tool Box&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Programming:&lt;/strong&gt;
+C, C++, Python, Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies &amp;amp; Frameworks:&lt;/strong&gt;
+Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design &amp;amp; Implementation, UART/SPI/I2C,
+TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
+Yocto, Zephyr, FreeRTOS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Platforms:&lt;/strong&gt;
 Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
 Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin)&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Hardware &amp;amp; Prototyping&lt;/code&gt;
+&lt;p&gt;&lt;strong&gt;Hardware &amp;amp; Prototyping:&lt;/strong&gt;
 PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Skills &amp;amp; Competencies&lt;/code&gt;&lt;br&gt;
-&lt;strong&gt;Customer Interaction &amp;amp; Field Support:&lt;/strong&gt; Proven ability to engage with global customers, distilling technical details into actionable,
-clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning
-product development to meet market needs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Product Management:&lt;/strong&gt; Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product
-features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features,
-manage releases, and ensure successful product outcomes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Open Source Engagement:&lt;/strong&gt; Experience working with, and contributing to, open source software projects. Adept at navigating
-community-driven development processes, collaborating with global contributors, and aligning open-source innovations with
-organizational objectives.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Competencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Customer Interaction &amp;amp; Field Support:&lt;/strong&gt; Proven ability to engage with global customers, distilling technical details into actionable, clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning product development to meet market needs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Product Management:&lt;/strong&gt; Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features, manage releases, and ensure successful product outcomes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Open Source Engagement:&lt;/strong&gt; Experience working with, and contributing to, open source software projects. Adept at navigating community-driven development processes, collaborating with global contributors, and aligning open-source innovations with organizational objectives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;occupation-history&#34;&gt;Occupation History&lt;/h2&gt;
 &lt;h3 id=&#34;dyson&#34;&gt;Dyson&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;2023-2024&lt;/code&gt;
-&lt;strong&gt;Principal Embedded Connectivity Engineer&lt;/strong&gt;, Bristol&lt;br&gt;
-&lt;code&gt;2021-2023&lt;/code&gt;
-&lt;strong&gt;Associate Principal Embedded Connectivity Engineer&lt;/strong&gt;, Bristol&lt;br&gt;
-&lt;code&gt;2017-2021&lt;/code&gt;
-&lt;strong&gt;Senior Embedded Connectivity Engineer&lt;/strong&gt;, Bristol&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2023-2024:&lt;/strong&gt;
+&lt;em&gt;Principal Embedded Connectivity Engineer&lt;/em&gt;, Bristol&lt;br&gt;
+&lt;strong&gt;2021-2023:&lt;/strong&gt;
+&lt;em&gt;Associate Principal Embedded Connectivity Engineer&lt;/em&gt;, Bristol&lt;br&gt;
+&lt;strong&gt;2017-2021:&lt;/strong&gt;
+&lt;em&gt;Senior Embedded Connectivity Engineer&lt;/em&gt;, Bristol&lt;/p&gt;
 &lt;p&gt;In my role as Principal Engineer at Dyson, I spearheaded the development of next-generation IoT products,
 guiding concepts from initial research through to working prototypes while driving Dyson&amp;rsquo;s connected vision
 and strategy. This role placed me at the intersection of technology and product innovation, allowing me to
@@ -91,8 +90,8 @@ Bluetooth Mesh, DECT NR+), LPWAN (LTE-M, NB-IoT), BlueZ for Linux Bluetooth, and
 embedded Linux platforms.&lt;/p&gt;
 &lt;p&gt;Alongside my technical responsibilities, I mentored and managed a team of five engineers, fostering skill development
 and growth while advancing Dyson’s innovation roadmap.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;2016-2017&lt;/code&gt;
-&lt;strong&gt;Advanced Firmware Engineer&lt;/strong&gt;, Malmesbury&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2016-2017:&lt;/strong&gt;
+&lt;em&gt;Advanced Firmware Engineer&lt;/em&gt;, Malmesbury&lt;/p&gt;
 &lt;p&gt;As an Advanced Engineer on Dyson&amp;rsquo;s robotics platform team, I was instrumental in developing a robust, scalable platform
 for current and future Dyson products, leveraging C on ARM MCUs with μC/RTOS. My primary responsibility was to design
 and maintain the serial communication links between high-level systems and low-level peripherals, encompassing both
@@ -102,8 +101,8 @@ which I worked on from inception to adoption — a solution now integral to near
 adopted across Dyson’s embedded teams, streamlining testing and enabling cross-functional collaboration. This work provided
 engineers with reliable, flexible testing tools and accelerated development cycles on complex embedded systems.&lt;/p&gt;
 &lt;h3 id=&#34;brewbot&#34;&gt;Brewbot&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;2015-2016&lt;/code&gt;
-&lt;strong&gt;Firmware Lead&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2015-2016:&lt;/strong&gt;
+&lt;em&gt;Firmware Lead&lt;/em&gt;, Belfast&lt;/p&gt;
 &lt;p&gt;As Firmware Team Lead and sole Firmware Architect for Brewbot, an IoT-enabled, automated brewing system startup based in San
 Francisco and Belfast, I led a team of three engineers to develop a fully shippable product from concept to completion in just
 12 months. Built on Particle&amp;rsquo;s Wi-Fi platform (STM32 ARM Cortex M3 with Broadcom Wi-Fi), our system controlled every aspect of
@@ -116,8 +115,8 @@ releases, and milestones, using a streamlined SCRUM-inspired approach that kept 
 crucial real-world testing and a direct line to customer feedback. Despite the rapid pace and ultimate closure of the startup, this role
 was a unique opportunity to lead the creation of a pioneering IoT product from the ground up.&lt;/p&gt;
 &lt;h3 id=&#34;sensata&#34;&gt;Sensata&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;2014 - 2015&lt;/code&gt;
-&lt;strong&gt;Firmware Engineer&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2014-2015:&lt;/strong&gt;
+&lt;em&gt;Firmware Engineer&lt;/em&gt;, Belfast&lt;/p&gt;
 &lt;p&gt;At Sensata, I was part of the Automotive Innovation Team, where we developed novel fluid level sensing technologies for a new Audi
 platform. Working on 8-bit 8051 MCUs with C, I collaborated closely with a small team of engineers to bring our RF-based liquid level
 sensing product from prototype to production. My work encompassed implementing all product features, creating a robust debug interface
@@ -128,8 +127,8 @@ process and significantly supported our calibration work.&lt;/p&gt;
 clear, strategic presentations for both engineering and non-engineering stakeholders. This experience enhanced my ability to bridge technical
 depth with customer-focused communication, ensuring our solutions aligned with client requirements and industry standards.&lt;/p&gt;
 &lt;h3 id=&#34;nyse-euronext&#34;&gt;NYSE Euronext&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;2013 - 2014&lt;/code&gt;
-&lt;strong&gt;Platform Software Engineer&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2013-2014:&lt;/strong&gt;
+&lt;em&gt;Platform Software Engineer&lt;/em&gt;, Belfast&lt;/p&gt;
 &lt;p&gt;At NYSE Euronext, I was part of the Platform Team, where I worked on the development and maintenance of the Data Fabric product, a high-performance,
 low-latency, message-oriented middleware platform designed for distributing large volumes of application-level data across financial systems.
 This multi-threaded middleware, written in C for Linux systems, operated on IP network hardware and utilised advanced technologies like Infiniband
@@ -139,8 +138,8 @@ performance-critical environment. Additionally, I managed the Data Fabric Lab, p
 with cross-functional teams. To further support development, QA, and support, I created Python tools that improved diagnostic efficiency and
 streamlined processes, ensuring rapid response in a demanding financial services environment.&lt;/p&gt;
 &lt;h3 id=&#34;schrader-electronics&#34;&gt;Schrader Electronics&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;2009 - 2013&lt;/code&gt;
-&lt;strong&gt;Embedded Software Engineer&lt;/strong&gt;, Belfast&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2009-2013&lt;/strong&gt;
+&lt;em&gt;Embedded Software Engineer&lt;/em&gt;, Belfast&lt;/p&gt;
 &lt;p&gt;As a Firmware Engineer in the New Products Group at Schrader Electronics, I was responsible for designing, prototyping, and developing firmware for
 a range of industrial sensing solutions. Working with SiLabs 8051 8-bit MCUs, I developed low-power, bare-metal solutions with compact footprints
 (&amp;lt;64kB) that met strict power efficiency and space constraints.&lt;/p&gt;

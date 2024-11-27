@@ -4,158 +4,106 @@ title = "CV"
 
 ## Education
 
-`2004 - 2009`
+**2004 - 2009:**
 __Queen's University, Belfast__
 
 - MEng Electronic and Software Engineering [First Class Honours]
 - Thesis: ‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’
 
-## Awards
-
-`2023` Matter Working Group Outstanding Contributor Award  
-`2009` OpenFX Award for Engineering Software Excellence, *EEECS Faculty, Queen's University, Belfast*
-
 ## Tool Box
 
-`Programming`
+**Programming:**
 C, C++, Python, Go  
 
-`Technologies & Frameworks`
+**Technologies & Frameworks:**
 Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design & Implementation, UART/SPI/I2C,
 TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
 Yocto, Zephyr, FreeRTOS  
 
-`Tools & Platforms`
+**Tools & Platforms:**
 Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
 Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin)  
 
-`Hardware & Prototyping`
+**Hardware & Prototyping:**
 PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser  
 
-`Skills & Competencies`  
-**Customer Interaction & Field Support:** Proven ability to engage with global customers, distilling technical details into actionable,
-clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning
-product development to meet market needs.  
+**Skills & Competencies:**
 
-**Product Management:** Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product
-features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features,
-manage releases, and ensure successful product outcomes.  
+- **Customer Interaction & Field Support:** Proven ability to engage with global customers, distilling technical details into actionable, clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning product development to meet market needs.  
 
-**Open Source Engagement:** Experience working with, and contributing to, open source software projects. Adept at navigating 
-community-driven development processes, collaborating with global contributors, and aligning open-source innovations with
-organizational objectives.
+- **Product Management:** Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features, manage releases, and ensure successful product outcomes.  
+
+- **Open Source Engagement:** Experience working with, and contributing to, open source software projects. Adept at navigating community-driven development processes, collaborating with global contributors, and aligning open-source innovations with organizational objectives.
 
 ## Occupation History
 
 ### Dyson
-`2023-2024`
-__Principal Embedded Connectivity Engineer__, Bristol  
-`2021-2023`
-__Associate Principal Embedded Connectivity Engineer__, Bristol  
-`2017-2021`
-__Senior Embedded Connectivity Engineer__, Bristol  
+**2023-2024:**
+_Principal Embedded Connectivity Engineer_, Bristol  
+**2021-2023:**
+_Associate Principal Embedded Connectivity Engineer_, Bristol  
+**2017-2021:**
+_Senior Embedded Connectivity Engineer_, Bristol  
 
-In my role as Principal Engineer at Dyson, I spearheaded the development of next-generation IoT products,
-guiding concepts from initial research through to working prototypes while driving Dyson's connected vision
-and strategy. This role placed me at the intersection of technology and product innovation, allowing me to
-shape products that leverage Bluetooth Low Energy, Wi-Fi, and advanced Mesh/Cellular technologies across
-diverse platforms (C, C++, Python, and Go).
+At Dyson, I led the development of IoT products from concept to prototype, leveraging BLE, Wi-Fi, and Mesh/Cellular technologies
+across C, C++, Python, and Go platforms. I specialised in M2M/IoT protocols such as BLE, MQTT, and CoAP, architecting embedded
+solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialized devices. 
 
-I specialized in architecting and developing embedded solutions that seamlessly interfaced with cloud services,
-mobile applications, and even peer devices, becoming a go-to expert in M2M/IoT protocols such as BLE, MQTT, and
-CoAP. For cutting-edge prototypes, particularly as devices grew smaller and more specialised, I often designed
-custom PCBs to enhance performance and integration.
+As a key figure in Dyson's Smart Home Strategy, I served as Matter expert and CSA ambassador, chairing the Air Quality Tiger Team
+in Matter and contributing to Matter v1.2-1.4 standards, where I introduced Air Purifier and Air Quality Sensor specifications.
+I also contributed significantly to the Robot Vacuum Cleaner specification.
 
-A key figure in Dyson’s Smart Home Strategy, I represented the company as a Matter expert and ambassador to the
-Connectivity Standards Alliance. As a contributor to Matter v1.2, v1.3, and v1.4, I chaired the Air Quality Tiger
-Team, leading the introduction of the Air Purifier and Air Quality Sensor into the standard. I also contributed
-significantly to the Robot Vacuum Cleaner strategy and development.
+As Tech Lead and Product Owner for multi-disciplinary teams, I oversaw end-to-end feature development including firmware, mobile,
+and cloud components. I researched and implemented emerging technologies including Thread, LPWAN, and Matter on embedded Linux,
+while managing and mentoring a team of five engineers and advancing the company's connected product strategy.
 
-In addition to hands-on technical work, I led a team of engineers as a Tech Lead, collaborating with both technical
-and non-technical stakeholders to shape product requirements within real-world technological constraints.
-Acting as a Systems Engineer and Product Owner, I guided multi-disciplinary teams to bring product concepts to life,
-often overseeing complex end-to-end feature development including firmware, mobile app and cloud software.
+**2016-2017:**
+_Advanced Firmware Engineer_, Malmesbury
 
-My role also involved researching emerging technologies, where I explored innovations like mesh networking (Thread,
-Bluetooth Mesh, DECT NR+), LPWAN (LTE-M, NB-IoT), BlueZ for Linux Bluetooth, and deploying Matter and Docker on
-embedded Linux platforms.
+As an Advanced Engineer on Dyson's robotics platform team, I developed a robust, scalable platform using C on ARM MCUs with μC/RTOS.
+I designed and implemented a company-wide serial communications protocol for high-level systems and low-level peripherals, which
+became integral to nearly all Dyson products. 
 
-Alongside my technical responsibilities, I mentored and managed a team of five engineers, fostering skill development
-and growth while advancing Dyson’s innovation roadmap.
-
-`2016-2017`
-__Advanced Firmware Engineer__, Malmesbury
-
-As an Advanced Engineer on Dyson's robotics platform team, I was instrumental in developing a robust, scalable platform
-for current and future Dyson products, leveraging C on ARM MCUs with μC/RTOS. My primary responsibility was to design
-and maintain the serial communication links between high-level systems and low-level peripherals, encompassing both
-middleware and protocol design. This work laid the groundwork for a company-wide serial communications protocol,
-which I worked on from inception to adoption — a solution now integral to nearly all Dyson products.
-
-Beyond protocol development, I built a suite of peripheral emulators in Python using PyQT. These emulators became widely
-adopted across Dyson’s embedded teams, streamlining testing and enabling cross-functional collaboration. This work provided
-engineers with reliable, flexible testing tools and accelerated development cycles on complex embedded systems.
+I also created widely-adopted peripheral emulators in Python/PyQT that streamlined testing and accelerated development cycles across Dyson's
+embedded teams.
 
 ### Brewbot
-`2015-2016`
-__Firmware Lead__, Belfast
+**2015-2016:**
+_Firmware Lead_, Belfast
 
-As Firmware Team Lead and sole Firmware Architect for Brewbot, an IoT-enabled, automated brewing system startup based in San
-Francisco and Belfast, I led a team of three engineers to develop a fully shippable product from concept to completion in just
-12 months. Built on Particle's Wi-Fi platform (STM32 ARM Cortex M3 with Broadcom Wi-Fi), our system controlled every aspect of
-the brewing process, interfacing seamlessly with temperature sensors, flow meters, and load cells, and handling precise automation
-across all brewing stages.
-
-I developed the firmware in C++, enabling robust machine-to-cloud communication (MQTT) and seamless integration with mobile devices
-via CoAP. In addition to core development, I maintained our build system using Python and Docker and managed the team’s workload,
-releases, and milestones, using a streamlined SCRUM-inspired approach that kept us agile and efficient in a dynamic startup environment.
-
-Beyond my engineering responsibilities, I also managed our 200L pilot brewing kit, shipping around 10 kegs a week, which provided
-crucial real-world testing and a direct line to customer feedback. Despite the rapid pace and ultimate closure of the startup, this role
-was a unique opportunity to lead the creation of a pioneering IoT product from the ground up.
+As Firmware Team Lead and sole Firmware Architect at Brewbot, I led a team of three engineers to develop an IoT-enabled automated brewing
+system from concept to completion in 12 months. Using Particle's Wi-Fi platform (STM32 ARM Cortex M3), I developed firmware in C++ that
+controlled all brewing processes and enabled machine-to-cloud communication via MQTT and CoAP. I maintained our build system using Python
+and Docker, managed the team using SCRUM methods, and operated our 200L pilot brewing kit to gather real-world testing data and customer
+feedback.
 
 ### Sensata
-`2014 - 2015`
-__Firmware Engineer__, Belfast
+**2014-2015:**
+_Firmware Engineer_, Belfast
 
-At Sensata, I was part of the Automotive Innovation Team, where we developed novel fluid level sensing technologies for a new Audi
-platform. Working on 8-bit 8051 MCUs with C, I collaborated closely with a small team of engineers to bring our RF-based liquid level
-sensing product from prototype to production. My work encompassed implementing all product features, creating a robust debug interface
-(1-Wire), developing an MCU bootloader, and integrating ECU communication via J2716 SENT.
-
-In addition to firmware development, I created testing and calibration tools in C++ using Qt for Windows, which streamlined the testing
-process and significantly supported our calibration work.
-
-Given the small, agile team structure, I frequently engaged in global customer interactions, translating complex technical decisions into
-clear, strategic presentations for both engineering and non-engineering stakeholders. This experience enhanced my ability to bridge technical
-depth with customer-focused communication, ensuring our solutions aligned with client requirements and industry standards.
+As part of the Automotive Innovation Team at Sensata, I developed RF-based fluid level sensing technologies for a new Audi platform. Working
+with 8-bit 8051 MCUs in C, I implemented core product features, created a 1-Wire debug interface, developed an MCU bootloader, and integrated
+ECU communication via J2716 SENT. I also built testing and calibration tools in C++/Qt for Windows, streamlining our development process. In
+this small, agile team environment, I regularly presented technical decisions to global customers, effectively communicating complex engineering
+concepts to diverse stakeholders.
 
 ### NYSE Euronext
-`2013 - 2014`
-__Platform Software Engineer__, Belfast
+**2013-2014:**
+_Platform Software Engineer_, Belfast
 
-At NYSE Euronext, I was part of the Platform Team, where I worked on the development and maintenance of the Data Fabric product, a high-performance,
-low-latency, message-oriented middleware platform designed for distributing large volumes of application-level data across financial systems.
-This multi-threaded middleware, written in C for Linux systems, operated on IP network hardware and utilised advanced technologies like Infiniband
-to enable RDMA and Kernel Bypass for unmatched speed and reliability.
-
-My responsibilities included implementing robust, production-grade C code for patches and new feature releases, maintaining system stability in a
-performance-critical environment. Additionally, I managed the Data Fabric Lab, providing timely triage for customer issues and collaborating closely
-with cross-functional teams. To further support development, QA, and support, I created Python tools that improved diagnostic efficiency and
-streamlined processes, ensuring rapid response in a demanding financial services environment.
+At NYSE Euronext's Platform Team, I developed and maintained Data Fabric, a high-performance, low-latency middleware platform for financial data
+distribution. Working in C on Linux systems, I implemented production-grade code utilizing Infiniband hardware for RDMA and Kernel Bypass in this
+multi-threaded system. I managed the Data Fabric Lab, providing customer support and issue triage, while creating Python tools to improve diagnostics
+and streamline processes across development, QA, and support teams.
 
 ### Schrader Electronics
-`2009 - 2013`
-__Embedded Software Engineer__, Belfast
+**2009-2013**
+_Embedded Software Engineer_, Belfast
 
-As a Firmware Engineer in the New Products Group at Schrader Electronics, I was responsible for designing, prototyping, and developing firmware for
-a range of industrial sensing solutions. Working with SiLabs 8051 8-bit MCUs, I developed low-power, bare-metal solutions with compact footprints
-(<64kB) that met strict power efficiency and space constraints.
-
-In this role, I took projects from concept on breadboards to in-situ prototypes, enabling real-world testing and refinement. The sensors I developed
-used 433MHz Manchester-Coded RF to communicate with base stations, ensuring reliable data transmission across challenging industrial environments.
-This hands-on experience allowed me to refine my skills in low-power design and RF communication, contributing to Schrader's portfolio of cutting-edge
-sensing technology.
+As a Firmware Engineer in Schrader Electronics' New Products Group, I designed and developed firmware for industrial sensing solutions. Working with
+SiLabs 8051 MCUs, I created low-power, bare-metal solutions (<64kB) using 433MHz Manchester-Coded RF for reliable communication. I managed projects
+from initial breadboard concepts to in-situ prototypes, developing compact solutions that met strict power efficiency requirements in challenging
+industrial environments.
 
 ## Hobbies & Interests
 
