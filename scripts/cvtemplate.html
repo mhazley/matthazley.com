@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <style>
+        @page {
+            margin: 0.5cm;  /* Minimal page margins */
+            size: A4;       /* Explicit page size */
+        }
+        body {
+            font-family: 'Helvetica', sans-serif;
+            line-height: 1.4;
+            max-width: 21cm;
+            margin: 0 auto;
+            padding: 1cm;
+            font-size: 10pt;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            font-size: 18pt;   /* Main header size */
+            margin: 0.3em 0;   /* Reduced margins */
+        }
+        h2 {
+            color: #34495e;
+            font-size: 14pt;   /* Section header size */
+            margin: 0.7em 0 0.3em 0;  /* Tighter margins */
+        }
+        h3 {
+            font-size: 12pt;   /* Subsection header size */
+            margin: 0.6em 0 0.2em 0;
+        }
+        p {
+            margin: 0.3em 0;   /* Reduced paragraph spacing */
+        }
+        .contact-info {
+            margin: 0.3em 0;
+            color: #7f8c8d;
+            font-size: 10pt;   /* Slightly smaller contact info */
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        ul {
+            padding-left: 1em;    /* Reduced list indentation */
+            margin: 0.2em 0;        /* Tighter list margins */
+        }
+        li {
+            margin: 0.15em 0;        /* Reduced space between list items */
+        }
+        .date {
+            color: #7f8c8d;
+            font-style: italic;
+            font-size: 10pt;    /* Smaller date text */
+        }
+        /* Optional: tighter spacing for nested lists */
+        ul ul {
+            margin: 0;
+            padding-left: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    {{ content }}
+</body>
+</html>
