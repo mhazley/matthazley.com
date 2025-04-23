@@ -18,7 +18,7 @@ C, C++, Python, Go
 **Technologies & Frameworks:**
 Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design & Implementation, UART/SPI/I2C,
 TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
-Yocto, Zephyr, FreeRTOS  
+DBus, Yocto, Zephyr, FreeRTOS  
 
 **Tools & Platforms:**
 Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
@@ -49,12 +49,14 @@ At Dyson, I led the development of IoT products from concept to prototype, lever
 across C, C++, Python, and Go platforms. I specialised in M2M/IoT protocols such as BLE, MQTT, and CoAP, architecting embedded
 solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialized devices. 
 
-As a key figure in Dyson's Smart Home Strategy, I served as Matter expert and CSA ambassador, chairing the Air Quality Tiger Team
-in Matter and contributing to Matter v1.2-1.4 standards, where I introduced Air Purifier and Air Quality Sensor specifications.
-I also contributed significantly to the Robot Vacuum Cleaner specification.
+I was a key figure in shaping Dyson's Smart Home Strategy with Matter and I served as both Matter expert and CSA ambassador. 
+I chaired the Air Quality Tiger Team in the Matter Working Group and contributed to the Matter v1.2-1.4 standards, where I introduced 
+the Air Purifier and Air Quality Sensor specifications and contributed significantly to the Robot Vacuum Cleaner specification.
+These specification additions allowed Dyson devices to be connected into any Smart Home Network that supported Matter and I worked closely
+with Apple, Google, Amazon and Samsung to ensure these devices were supported.
 
-As Tech Lead and Product Owner for multi-disciplinary teams, I oversaw end-to-end feature development including firmware, mobile,
-and cloud components. I researched and implemented emerging technologies including Thread, LPWAN, and Matter on embedded Linux,
+I also operated as a Tech Lead and Product Owner for multi-disciplinary teams, where I oversaw end-to-end feature development including 
+firmware, mobile, and cloud components. I researched and implemented emerging technologies including Thread, LPWAN, and Matter on embedded Linux,
 while managing and mentoring a team of five engineers and advancing the company's connected product strategy.
 
 **2016-2017:**
