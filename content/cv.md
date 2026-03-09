@@ -13,49 +13,64 @@ __Queen's University, Belfast__
 ## Tool Box
 
 **Programming:**
-C, C++, Python, Go  
+C, C++, Python, Go
 
 **Technologies & Frameworks:**
 Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design & Implementation, UART/SPI/I2C,
 TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
-DBus, Yocto, Zephyr, FreeRTOS  
+DBus, Yocto, Zephyr, FreeRTOS
 
 **Tools & Platforms:**
 Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
-Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin)  
+Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin), AWS Greengrass
 
 **Hardware & Prototyping:**
-PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser  
+PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser
 
 **Skills & Competencies:**
 
-- **Customer Interaction & Field Support:** Proven ability to engage with global customers, distilling technical details into actionable, clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning product development to meet market needs.  
+- **Customer Interaction & Field Support:** Proven ability to engage with global customers, distilling technical details into actionable, clear presentations, and providing field support to resolve critical issues. Adept at understanding customer requirements and aligning product development to meet market needs.
 
-- **Product Management:** Skilled in overseeing the product lifecycle, from concept to launch, with hands-on experience managing product features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features, manage releases, and ensure successful product outcomes.  
+- **Product Management:** Skilled in overseeing the product development lifecycle, from concept to launch, with hands-on experience managing product features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features, manage releases, and ensure successful product outcomes.
 
 - **Open Source Engagement:** Experience working with, and contributing to, open source software projects. Adept at navigating community-driven development processes, collaborating with global contributors, and aligning open-source innovations with organizational objectives.
 
 ## Occupation History
 
+### Sensoteq
+**2025-Present:**
+_Principal Firmware Engineer_, Belfast
+
+At Sensoteq, I have led the architecture and development of a new embedded Linux platform for a high-speed data acquisition device, built on
+Yocto and integrating AWS Greengrass Lite and RAUC for modular OS and software component updates. The platform employs a component-based software
+architecture developed in Go and Rust, interfacing with proprietary and off-the-shelf peripherals over SPI, I2C, and USB, with connectivity spanning
+Bluetooth, Wi-Fi, Ethernet, MQTT, and Cap'n Proto.
+
+I also drove the migration of the company's sensor platform from the nRF5 SDK to the Zephyr-based nRF Connect SDK, and developed prototype firmware
+for novel features and research initiatives.
+
+Across both hardware and firmware disciplines, I have introduced SCRUM practices to improve delivery cadence and team coordination, while continuing
+to contribute hands-on across the full embedded stack.
+
 ### Dyson
 **2023-2024:**
-_Principal Embedded Connectivity Engineer_, Bristol  
+_Principal Embedded Connectivity Engineer_, Bristol
 **2021-2023:**
-_Associate Principal Embedded Connectivity Engineer_, Bristol  
+_Associate Principal Embedded Connectivity Engineer_, Bristol
 **2017-2021:**
-_Senior Embedded Connectivity Engineer_, Bristol  
+_Senior Embedded Connectivity Engineer_, Bristol
 
 At Dyson, I led the development of IoT products from concept to prototype, leveraging BLE, Wi-Fi, and Mesh/Cellular technologies
 across C, C++, Python, and Go platforms. I specialised in M2M/IoT protocols such as BLE, MQTT, and CoAP, architecting embedded
-solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialized devices. 
+solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialized devices.
 
-I was a key figure in shaping Dyson's Smart Home Strategy with Matter and I served as both Matter expert and CSA ambassador. 
-I chaired the Air Quality Tiger Team in the Matter Working Group and contributed to the Matter v1.2-1.4 standards, where I introduced 
+I was a key figure in shaping Dyson's Smart Home Strategy with Matter and I served as both Matter expert and CSA ambassador.
+I chaired the Air Quality Tiger Team in the Matter Working Group and contributed to the Matter v1.2-1.4 standards, where I introduced
 the Air Purifier and Air Quality Sensor specifications and contributed significantly to the Robot Vacuum Cleaner specification.
 These specification additions allowed Dyson devices to be connected into any Smart Home Network that supported Matter and I worked closely
 with Apple, Google, Amazon and Samsung to ensure these devices were supported.
 
-I also operated as a Tech Lead and Product Owner for multi-disciplinary teams, where I oversaw end-to-end feature development including 
+I also operated as a Tech Lead and Product Owner for multi-disciplinary teams, where I oversaw end-to-end feature development including
 firmware, mobile, and cloud components. I researched and implemented emerging technologies including Thread, LPWAN, and Matter on embedded Linux,
 while managing and mentoring a team of five engineers and advancing the company's connected product strategy.
 
@@ -64,7 +79,7 @@ _Advanced Firmware Engineer_, Malmesbury
 
 As an Advanced Engineer on Dyson's robotics platform team, I developed a robust, scalable platform using C on ARM MCUs with μC/RTOS.
 I designed and implemented a company-wide serial communications protocol for high-level systems and low-level peripherals, which
-became integral to nearly all Dyson products. 
+became integral to nearly all Dyson products.
 
 I also created widely-adopted peripheral emulators in Python/PyQT that streamlined testing and accelerated development cycles across Dyson's
 embedded teams.
