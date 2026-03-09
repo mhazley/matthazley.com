@@ -54,11 +54,11 @@ to contribute hands-on across the full embedded stack.
 
 ### Dyson
 **2023-2024:**
-_Principal Embedded Connectivity Engineer_, Bristol
+_Principal Embedded Connectivity Engineer_, Bristol  
 **2021-2023:**
-_Associate Principal Embedded Connectivity Engineer_, Bristol
+_Associate Principal Embedded Connectivity Engineer_, Bristol  
 **2017-2021:**
-_Senior Embedded Connectivity Engineer_, Bristol
+_Senior Embedded Connectivity Engineer_, Bristol  
 
 At Dyson, I led the development of IoT products from concept to prototype, leveraging BLE, Wi-Fi, and Mesh/Cellular technologies
 across C, C++, Python, and Go platforms. I specialised in M2M/IoT protocols such as BLE, MQTT, and CoAP, architecting embedded

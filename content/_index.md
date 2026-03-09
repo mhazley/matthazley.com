@@ -11,7 +11,7 @@ that are as robust in code as they are thoughtful in user experience. With
 hands-on experience across firmware, app and cloud integration, HMI, and UX,
 I see the big picture without missing the crucial details.
 
-My 15 years in tech include both individual contributions and roles that
+My 17 years in tech include both individual contributions and roles that
 pushed me to lead, mentor, and manage products end-to-end. Whether driving
 a project from the code level or guiding a team to meet ambitious goals, I’m
 ready to take on challenges in both technical and leadership roles, including
