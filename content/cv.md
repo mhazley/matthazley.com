@@ -18,11 +18,11 @@ C, C++, Python, Go
 **Technologies & Frameworks:**
 Wi-Fi, Bluetooth Low Energy, M2M (MQTT/CoAP/REST), CBOR, Protobuf, Protocol Design & Implementation, UART/SPI/I2C,
 TCP/IP, LTE-M, Mesh Technologies (Thread, Bluetooth Mesh), Smart-Home (HomeKit, Matter), Multi-Threaded Design, LVGL,
-DBus, Yocto, Zephyr, FreeRTOS
+DBus, Yocto, Zephyr, FreeRTOS, TPMs & Secure Elements
 
 **Tools & Platforms:**
-Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS IoT Core, AWS Lambda, Serverless, Wireshark, Raspberry Pi (3/4/CM4),
-Nordic MCUs, ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin), AWS Greengrass
+Linux, Git, GCC/GDB, CMake, Valgrind, Docker, Balena, AWS (IoT Core, Lambda, Greengrass, EC2), Serverless, Wireshark, Raspberry Pi,
+Nordic MCUs (Zephyr), ESP32 MCUs (IDF), Agile/SCRUM, BDD (Gherkin)
 
 **Hardware & Prototyping:**
 PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser
@@ -42,9 +42,9 @@ PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser
 _Principal Firmware Engineer_, Belfast
 
 At Sensoteq, I have led the architecture and development of a new embedded Linux platform for a high-speed data acquisition device, built on
-Yocto and integrating AWS Greengrass Lite and RAUC for modular OS and software component updates. The platform employs a component-based software
+Yocto and integrating opkg and RAUC for modular OS and software component updates. The platform employs a component-based software
 architecture developed in Go and Rust, interfacing with proprietary and off-the-shelf peripherals over SPI, I2C, and USB, with connectivity spanning
-Bluetooth, Wi-Fi, Ethernet, MQTT, and Cap'n Proto.
+Bluetooth, Wi-Fi, Ethernet, MQTT, using Cap'n Proto for cross-system communications.
 
 I also drove the migration of the company's sensor platform from the nRF5 SDK to the Zephyr-based nRF Connect SDK, and developed prototype firmware
 for novel features and research initiatives.
@@ -64,15 +64,16 @@ At Dyson, I led the development of IoT products from concept to prototype, lever
 across C, C++, Python, and Go platforms. I specialised in M2M/IoT protocols such as BLE, MQTT, and CoAP, architecting embedded
 solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialized devices.
 
-I was a key figure in shaping Dyson's Smart Home Strategy with Matter and I served as both Matter expert and CSA ambassador.
-I chaired the Air Quality Tiger Team in the Matter Working Group and contributed to the Matter v1.2-1.4 standards, where I introduced
+I was a key figure in shaping Dyson's Smart Home Strategy with Matter and I served as a Matter expert and a CSA ambassador.
+I co-chaired the Air Quality Tiger Team in the Matter Working Group with Bosch, and contributed to the Matter v1.2-1.4 standards, where I introduced
 the Air Purifier and Air Quality Sensor specifications and contributed significantly to the Robot Vacuum Cleaner specification.
 These specification additions allowed Dyson devices to be connected into any Smart Home Network that supported Matter and I worked closely
-with Apple, Google, Amazon and Samsung to ensure these devices were supported.
+with Apple, Google, Amazon and Samsung to ensure these devices were supported on their platforms.
 
 I also operated as a Tech Lead and Product Owner for multi-disciplinary teams, where I oversaw end-to-end feature development including
-firmware, mobile, and cloud components. I researched and implemented emerging technologies including Thread, LPWAN, and Matter on embedded Linux,
-while managing and mentoring a team of five engineers and advancing the company's connected product strategy.
+firmware, mobile, and cloud components. I researched and implemented prototypes on emerging technologies including Thread, LPWAN, and Matter.
+
+I also managed and mentored a team of five engineers and was a key figure in advancing the company's connected product strategy.
 
 **2016-2017:**
 _Advanced Firmware Engineer_, Malmesbury
