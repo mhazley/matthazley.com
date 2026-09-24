@@ -41,16 +41,17 @@ PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser
 **2025-Present:**
 _Principal Firmware Engineer_, Belfast
 
-At Sensoteq, I have led the architecture and development of a new embedded Linux platform for a high-speed data acquisition device, built on
-Yocto and integrating opkg and RAUC for modular OS and software component updates. The platform employs a component-based software
-architecture developed in Go and Rust, interfacing with proprietary and off-the-shelf peripherals over SPI, I2C, and USB, with connectivity spanning
-Bluetooth, Wi-Fi, Ethernet, MQTT, using Cap'n Proto for cross-system communications.
+At Sensoteq, I lead the architecture and development of a new embedded Linux platform for a high-speed data acquisition device and IoT gateway.
+Built on Yocto, it uses RAUC and opkg for modular OS and software updates, and Tailscale for secure remote access to devices in the field.
+The software follows a component-based architecture in Go, Rust and C++, driving proprietary and off-the-shelf peripherals over SPI, I2C and USB.
+Connectivity spans Bluetooth, Wi-Fi, Ethernet and cellular, with MQTT and HTTPS for cloud communication and Cap'n Proto for messaging between systems and components.
+I also wrote most of the bare-metal C firmware for the device's proprietary peripherals. MCU firmware, OS images and application software are all deployed automatically through CI.
 
 I also drove the migration of the company's sensor platform from the nRF5 SDK to the Zephyr-based nRF Connect SDK, and developed prototype firmware
 for novel features and research initiatives.
 
-Across both hardware and firmware disciplines, I have introduced SCRUM practices to improve delivery cadence and team coordination, while continuing
-to contribute hands-on across the full embedded stack.
+Across both hardware and firmware disciplines, I have introduced Scrum practices to improve delivery cadence and team coordination, while continuing
+to contribute hands-on across the full embedded stack. I have also driven improved documentation and specification practices.
 
 ### Dyson
 **2023-2024:**
