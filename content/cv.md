@@ -33,7 +33,7 @@ PCB Design (Altium), Soldering Iron, Oscilloscope, Logic Analyser
 
 - **Product Management:** Skilled in overseeing the product development lifecycle, from concept to launch, with hands-on experience managing product features, requirements, and roadmaps. Strong ability to collaborate with engineering, design, and business teams to prioritise features, manage releases, and ensure successful product outcomes.
 
-- **Open Source Engagement:** Experience working with, and contributing to, open source software projects. Adept at navigating community-driven development processes, collaborating with global contributors, and aligning open-source innovations with organizational objectives.
+- **Open Source Engagement:** Experience working with, and contributing to, open source software projects. Adept at navigating community-driven development processes, collaborating with global contributors, and aligning open-source innovations with organisational objectives.
 
 ## Occupation History
 
@@ -63,7 +63,7 @@ _Senior Embedded Connectivity Engineer_, Bristol
 
 At Dyson, I led the development of IoT products from concept to prototype, leveraging BLE, Wi-Fi, and Mesh/Cellular technologies
 across C, C++, Python, and Go platforms. I specialised in M2M/IoT protocols such as BLE, MQTT, and CoAP, architecting embedded
-solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialized devices.
+solutions that interfaced with cloud services and mobile apps, and designed custom PCBs for specialised devices.
 
 I was a key figure in shaping Dyson's Smart Home Strategy with Matter and I served as a Matter expert and a CSA ambassador.
 I co-chaired the Air Quality Tiger Team in the Matter Working Group with Bosch, and contributed to the Matter v1.2-1.4 standards, where I introduced
@@ -111,7 +111,7 @@ concepts to diverse stakeholders.
 _Platform Software Engineer_, Belfast
 
 At NYSE Euronext's Platform Team, I developed and maintained Data Fabric, a high-performance, low-latency middleware platform for financial data
-distribution. Working in C on Linux systems, I implemented production-grade code utilizing Infiniband hardware for RDMA and Kernel Bypass in this
+distribution. Working in C on Linux systems, I implemented production-grade code utilising Infiniband hardware for RDMA and Kernel Bypass in this
 multi-threaded system. I managed the Data Fabric Lab, providing customer support and issue triage, while creating Python tools to improve diagnostics
 and streamline processes across development, QA, and support teams.
 
