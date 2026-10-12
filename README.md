@@ -8,19 +8,25 @@ Powered by Hugo & Github Pages.
 
 ### Install
 
-Dependencies defined in pyproject.toml managed with [uv](https://docs.astral.sh/uv/)
+Dependencies are defined in environment.yml and managed with [conda](https://docs.conda.io/)
 
 ```
-cd .
-uv pip install -r pyproject.toml
+conda env create -f environment.yml
+conda activate matthazley-com
+```
+
+To pick up changes to environment.yml later:
+
+```
+conda env update -f environment.yml --prune
 ```
 
 
 ### Run
 
 ```
-cd ./script
-uv run python pdfcv.py
+cd ./scripts
+python pdfcv.py
 
-# Check for ./script/cv.pdf
+# Check for ./scripts/cv.pdf
 ```
