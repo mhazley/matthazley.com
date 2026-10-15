@@ -82,6 +82,7 @@ if __name__ == '__main__':
         lines_to_remove = [
             "# Hi, I'm Matt 👋",
             "[Reach out](mailto:hello@matthazley.com) if you'd like to chat, or find me",
-            "on [LinkedIn](https://www.linkedin.com/in/matthazley/)."
+            "on [LinkedIn](https://www.linkedin.com/in/matthazley/).",
+            "📄 [Download as PDF](https://github.com/mhazley/matthazley.com/releases/latest/download/cv.pdf)"
         ]
     )

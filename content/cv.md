@@ -2,6 +2,8 @@
 title = "CV"
 +++
 
+📄 [Download as PDF](https://github.com/mhazley/matthazley.com/releases/latest/download/cv.pdf)
+
 ## Education
 
 **2004 - 2009:**
