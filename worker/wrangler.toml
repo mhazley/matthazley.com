@@ -1,0 +1,10 @@
+name = "brewfather"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://matthazley.com,http://localhost:1313"
+
+# Secrets, set with:
+#   npx wrangler secret put BREWFATHER_USER_ID
+#   npx wrangler secret put BREWFATHER_API_KEY

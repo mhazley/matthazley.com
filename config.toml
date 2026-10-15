@@ -11,6 +11,8 @@ paginate = 5
   showMenuItems = 3
   fullWidthTheme = false
   centerTheme = false
+  # Cloudflare Worker URL serving Brewfather batch data (see worker/)
+  brewfatherApi = "https://brewfather.matthazley.workers.dev"
 
 [languages]
   [languages.en]

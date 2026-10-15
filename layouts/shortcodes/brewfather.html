@@ -1,0 +1,106 @@
+{{- with site.Params.brewfatherApi -}}
+<div class="brewfather" data-api="{{ . }}">
+  <section class="brewfather-batch" data-slot="current">
+    <h3>On the go</h3>
+    <p class="brewfather-empty">Loading…</p>
+  </section>
+  <section class="brewfather-batch" data-slot="last">
+    <h3>Last brewed</h3>
+    <p class="brewfather-empty">Loading…</p>
+  </section>
+</div>
+
+<style>
+  .brewfather {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  .brewfather-batch {
+    border: 1px solid var(--accent);
+    padding: 1rem 1.25rem;
+  }
+  .brewfather-batch h3 {
+    margin-top: 0;
+    color: var(--accent);
+  }
+  .brewfather-batch h4 {
+    margin: 0 0 0.25rem;
+  }
+  .brewfather-meta {
+    margin: 0 0 1rem;
+    opacity: 0.7;
+  }
+  .brewfather-stats {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.1rem 1rem;
+    margin: 0 0 1rem;
+  }
+  .brewfather-stats dt {
+    font-weight: bold;
+  }
+  .brewfather-stats dd {
+    margin: 0;
+  }
+</style>
+
+<script>
+  (() => {
+    const root = document.querySelector(".brewfather");
+    const date = (ms) => ms ? new Date(ms).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) : null;
+    const sg = (v) => v ? Number(v).toFixed(3) : null;
+
+    const el = (tag, cls, text) => {
+      const node = document.createElement(tag);
+      if (cls) node.className = cls;
+      if (text != null) node.textContent = text;
+      return node;
+    };
+
+    const render = (slot, batch, emptyText) => {
+      const section = root.querySelector(`[data-slot="${slot}"]`);
+      section.querySelectorAll(":scope > :not(h3)").forEach((n) => n.remove());
+
+      if (!batch) {
+        section.append(el("p", "brewfather-empty", emptyText));
+        return;
+      }
+
+      // Brewfather names batches "Batch" by default, so prefer the recipe name unless it's been renamed
+      const title = batch.name && batch.name !== "Batch" ? batch.name : batch.recipeName;
+      section.append(el("h4", null, title));
+      const meta = [batch.batchNo && `#${batch.batchNo}`, batch.style, batch.status].filter(Boolean).join(" · ");
+      if (meta) section.append(el("p", "brewfather-meta", meta));
+
+      const stats = [
+        ["Brewed", date(batch.brewDate)],
+        // Brewfather holds the planned date here until the batch is actually packaged
+        [batch.bottlingDate > Date.now() ? "Packaging" : "Packaged", date(batch.bottlingDate)],
+        ["OG", sg(batch.og)],
+        ["FG", sg(batch.fg)],
+        ["ABV", batch.abv ? `${Number(batch.abv).toFixed(1)}%` : null],
+        ["IBU", batch.ibu ? Math.round(batch.ibu) : null],
+        ["Colour", batch.colour ? `${Math.round(batch.colour)} EBC` : null],
+        ["Gravity now", batch.reading && `${sg(batch.reading.sg)}${batch.reading.temp != null ? ` @ ${Number(batch.reading.temp).toFixed(1)}°C` : ""}`],
+        ["Malts", batch.fermentables.join(", ")],
+        ["Hops", batch.hops.join(", ")],
+        ["Yeast", batch.yeasts.join(", ")],
+      ].filter(([, v]) => v);
+
+      const dl = el("dl", "brewfather-stats");
+      for (const [label, value] of stats) dl.append(el("dt", null, label), el("dd", null, value));
+      section.append(dl);
+    };
+
+    fetch(root.dataset.api)
+      .then((res) => res.ok ? res.json() : Promise.reject(res.status))
+      .then((data) => {
+        render("current", data.current, "Nothing brewing right now.");
+        render("last", data.last, "No completed batches yet.");
+      })
+      .catch(() => root.remove());
+  })();
+</script>
+{{- end -}}

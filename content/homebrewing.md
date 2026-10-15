@@ -15,5 +15,9 @@ In late 2024 I moved back to Belfast and am in the process of setting up the
 Belfast Chapter of Homebrew Collab, so if you are a Northern Irish Homebrewer,
 please get in touch.
 
+## What's brewing
+
+{{< brewfather >}}
+
 Myself and my fellow Homebrewers can be found hanging out on the
 [Homebrew Collab Discord](https://discord.gg/eKzsEtQpDH) so please come say hello!
